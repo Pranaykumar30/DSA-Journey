@@ -55,7 +55,10 @@ while low <= high:
 * Consider loops, recursion, branching
 
 ## 📊 Visual Chart
-![Big-O Notation]("E:/dsa_journey/Week-01-Foundation/Visuals/big_o_chart_day2.png")
+
+![big_o_chart_day2](https://github.com/user-attachments/assets/ca674dd0-4aba-4237-b680-8f1be30ba8be)
+
+>>>>>>> 77e8264cb205ce2ebdc82b48cf438d82e1e84be3
 
 ## ✅ Summary
 
