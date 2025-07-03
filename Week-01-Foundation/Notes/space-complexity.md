@@ -67,6 +67,8 @@ Each level adds one frame to the stack → Total space: O(n)
 ### 🧾 Visual Aid
 Recursion tree showing factorial(n) stack growth
 
+![space_complexity_visual](https://github.com/user-attachments/assets/e0e9f4ef-0994-4b04-b8f3-e57b46731903)
+
 
 
 ### ✅ Summary
