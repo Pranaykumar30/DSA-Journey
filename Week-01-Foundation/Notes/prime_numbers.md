@@ -62,6 +62,7 @@ Comparison of operations between:
 
 - Optimized Check → O(√n)
 
+![image](https://github.com/user-attachments/assets/bde5008c-1335-4582-b4a7-d990840e4513)
 
 
 ### 🧠 Tips
