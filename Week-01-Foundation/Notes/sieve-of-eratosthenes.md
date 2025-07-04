@@ -31,6 +31,9 @@ Result = `[2, 3, 5, 7]`
 
 ---
 
+![dry_run](https://github.com/user-attachments/assets/7d49991f-b695-4248-a316-54d88a710d81)
+
+
 ## ✅ LeetCode-style Implementation
 
 ```python
